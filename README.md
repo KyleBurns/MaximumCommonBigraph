@@ -6,7 +6,7 @@ https://github.com/networkx/networkx/pull/4221/files
 
 ### Usage:
 
-python3 mcb.py <pattern> <target> 
+python3 mcb.py [pattern_file] [target_file] 
 
 Optional additional parameters:
 
